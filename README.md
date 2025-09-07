@@ -40,6 +40,16 @@ Employee attrition is a critical business challenge. By transforming HR data int
 
 ---
 
+## ⬇️ Download the Dashboard  
+
+You can download the Power BI dashboard file (`.pbix`) directly from this repository:  
+
+👉 [Download HR_Analytics_Dashboard.pbix](./HR_Analytics_Dashboard.pbix)  
+
+
+---
+
+
 ## 🤝 Contributions  
 This is a beginner-friendly project! If you’d like to:  
 - Suggest new HR metrics  
